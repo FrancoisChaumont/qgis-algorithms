@@ -44,7 +44,6 @@ export QT_QPA_PLATFORM='offscreen'
 
 ### Help
 - [display algorithm usage](READMEs/display_algorithm_usage.py.md)      
-(`opened an issue on Github for character encoding related crash`)
 - [list algorithms](READMEs/list_algorithms.py.md)
 
 ### Algorithms
